@@ -6,6 +6,7 @@ This repository contains basic Terraform recipes that can be used to deploy elem
 
 <details><summary>AWS Recipes</summary>
 <p>
+</br>
 <b><a href="">EC2 Recipes</a></b>
 </details>
 
