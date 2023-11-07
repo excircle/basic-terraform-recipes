@@ -20,7 +20,7 @@ For the sake of learning, the following Terraform code is meant to illustrate wh
 
 
 ### providers.go
-```golang
+```hcl
 terraform {
   required_providers {
     google = {
@@ -37,7 +37,7 @@ provider "google" {
 ```
 
 ### main.tf
-```golang
+```hcl
 # GCP Project Data
 data "google_project" "project" {}
 
